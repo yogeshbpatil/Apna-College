@@ -1,7 +1,7 @@
-// console.log("Welcine to Appna College");
-age = 24;
-price = 99.99;
-x = null;
-fullname = "Tony Stark";
-y = undefined;
-console.log(y);
+let age = 24;
+
+let price = 100.55;
+
+let fullName = "Tony Stark";
+
+isFollow = true;
