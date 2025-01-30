@@ -1,7 +1,8 @@
-let age = 24;
+const profile = {
+    username: "@shardhakhapra",
+    siFollow: false,
+    followers: 123,
+    following: 1213
+}
 
-let price = 100.55;
-
-let fullName = "Tony Stark";
-
-isFollow = true;
+console.log(typeof profile["followers"])
