@@ -1,8 +1,5 @@
-const profile = {
-    username: "@shardhakhapra",
-    siFollow: false,
-    followers: 123,
-    following: 1213
-}
+let a = 6;
+let b = 5;
 
-console.log(typeof profile["followers"])
+
+console.log("5 >= 5", a >= b)
